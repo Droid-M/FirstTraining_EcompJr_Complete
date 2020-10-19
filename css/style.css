@@ -1,0 +1,79 @@
+@charset "UTF-8";
+
+#screen-login{
+    text-align: center;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    background-image: url("../img/backgrounds/pexels-life-of-pix-4291.jpg");
+    background-size: 100%;
+}
+
+.text-input {
+    font-size: 37px;
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+
+    
+}
+
+.submit-button {
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+.linkage {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:black;
+    font-size: 38px;
+}
+
+.linkage:hover {
+    font-size: 50px;
+    color: goldenrod;
+}
+
+.first-message {
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+#dashboard {
+    background-image: url("../img/backgrounds/pexels-serpstat-572056.jpg");
+    background-size: 100%;
+}
+
+.container-img {
+    text-align: center;
+    padding-top: 20px;
+    background-color: white;
+    margin-left: 5%;
+    width: 350px;
+    height: 480px;
+}
+
+#index .row, #create_profile .row {
+    width: 90%;
+    margin-left: 1%;
+}
+
+.table-bordered {
+    margin-top: 50px;
+}
+
+#form-profile {
+    padding-top: 100px;
+    padding-left: 80px;
+}
+
+#image-back-profile {
+    background-image: url("../img/backgrounds/pexels-mentatdgt-1319854.jpg");
+    height: auto;
+    width: auto;
+    background-attachment: fixed;
+    background-position: 0;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
